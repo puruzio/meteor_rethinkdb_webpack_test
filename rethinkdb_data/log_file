@@ -1,0 +1,75 @@
+2015-10-14T23:06:37.504310000 0.429062s notice: Recursively removing directory /Users/puruzio/_dev/meteor/others/kickstart-hugeapp/rethinkdb_data/tmp
+2015-10-14T23:06:37.505734000 0.430535s notice: Initializing directory /Users/puruzio/_dev/meteor/others/kickstart-hugeapp/rethinkdb_data
+2015-10-14T23:06:37.505904000 0.430657s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/Users/puruzio/_dev/meteor/others/kickstart-hugeapp/rethinkdb_data' did not already exist or is empty.)
+2015-10-14T23:06:37.505936000 0.430688s notice: Running rethinkdb 2.1.1 (CLANG 4.2 (clang-425.0.28))...
+2015-10-14T23:06:37.513559000 0.438312s notice: Running on Darwin 14.5.0 x86_64
+2015-10-14T23:06:37.513664000 0.438417s notice: Loading data from directory /Users/puruzio/_dev/meteor/others/kickstart-hugeapp/rethinkdb_data
+2015-10-14T23:06:37.639018000 0.563770s info: Automatically using cache size of 100 MB
+2015-10-14T23:06:37.639029000 0.563781s warn: Cache size is larger than available memory.
+2015-10-14T23:06:37.639035000 0.563787s warn: Cache size is very low and may impact performance.
+2015-10-14T23:06:37.640605000 0.565358s notice: Listening for intracluster connections on port 29015
+2015-10-14T23:06:37.645557000 0.570310s notice: Listening for client driver connections on port 28015
+2015-10-14T23:06:37.670127000 0.594879s error: Could not bind to http port: The address at localhost:8080 is reserved or already in use.
+2015-10-14T23:11:01.537263000 0.013952s notice: Running rethinkdb 2.1.5-2 (CLANG 4.2 (clang-425.0.28))...
+2015-10-14T23:11:01.545549000 0.022234s notice: Running on Darwin 14.5.0 x86_64
+2015-10-14T23:11:01.545599000 0.022283s notice: Loading data from directory /Users/puruzio/_dev/meteor/others/kickstart-hugeapp/rethinkdb_data
+2015-10-14T23:11:01.592134000 0.068817s info: Automatically using cache size of 100 MB
+2015-10-14T23:11:01.592147000 0.068830s warn: Cache size is larger than available memory.
+2015-10-14T23:11:01.592154000 0.068837s warn: Cache size is very low and may impact performance.
+2015-10-14T23:11:01.594159000 0.070842s notice: Listening for intracluster connections on port 29015
+2015-10-14T23:11:01.600084000 0.076768s notice: Listening for client driver connections on port 28015
+2015-10-14T23:11:01.620629000 0.097312s error: Could not bind to http port: The address at localhost:8080 is reserved or already in use.
+2015-10-14T23:11:43.375949000 0.005645s notice: Running rethinkdb 2.1.5-2 (CLANG 4.2 (clang-425.0.28))...
+2015-10-14T23:11:43.379806000 0.009500s notice: Running on Darwin 14.5.0 x86_64
+2015-10-14T23:11:43.379856000 0.009548s notice: Loading data from directory /Users/puruzio/_dev/meteor/others/kickstart-hugeapp/rethinkdb_data
+2015-10-14T23:11:43.419239000 0.048932s info: Automatically using cache size of 100 MB
+2015-10-14T23:11:43.419249000 0.048941s warn: Cache size is larger than available memory.
+2015-10-14T23:11:43.419259000 0.048951s warn: Cache size is very low and may impact performance.
+2015-10-14T23:11:43.419841000 0.049533s notice: Listening for intracluster connections on port 29015
+2015-10-14T23:11:43.421990000 0.051682s notice: Listening for client driver connections on port 28015
+2015-10-14T23:11:43.444062000 0.073754s error: Could not bind to http port: The address at localhost:8080 is reserved or already in use.
+2015-10-14T23:12:24.681336000 0.019829s notice: Running rethinkdb 2.1.5-2 (CLANG 4.2 (clang-425.0.28))...
+2015-10-14T23:12:24.686968000 0.025457s notice: Running on Darwin 14.5.0 x86_64
+2015-10-14T23:12:24.687021000 0.025508s notice: Loading data from directory /Users/puruzio/_dev/meteor/others/kickstart-hugeapp/rethinkdb_data
+2015-10-14T23:12:24.728653000 0.067141s info: Automatically using cache size of 100 MB
+2015-10-14T23:12:24.728666000 0.067154s warn: Cache size is larger than available memory.
+2015-10-14T23:12:24.728676000 0.067164s warn: Cache size is very low and may impact performance.
+2015-10-14T23:12:24.730213000 0.068701s notice: Listening for intracluster connections on port 29015
+2015-10-14T23:12:24.735984000 0.074471s notice: Listening for client driver connections on port 28015
+2015-10-14T23:12:24.759164000 0.097651s error: Could not bind to http port: The address at localhost:8080 is reserved or already in use.
+2015-10-14T23:14:25.128095000 0.010389s notice: Running rethinkdb 2.1.5-2 (CLANG 4.2 (clang-425.0.28))...
+2015-10-14T23:14:25.138461000 0.020753s notice: Running on Darwin 14.5.0 x86_64
+2015-10-14T23:14:25.138521000 0.020812s notice: Loading data from directory /Users/puruzio/_dev/meteor/others/kickstart-hugeapp/rethinkdb_data
+2015-10-14T23:14:25.181793000 0.064083s info: Automatically using cache size of 100 MB
+2015-10-14T23:14:25.181801000 0.064091s warn: Cache size is larger than available memory.
+2015-10-14T23:14:25.181814000 0.064104s warn: Cache size is very low and may impact performance.
+2015-10-14T23:14:25.182805000 0.065096s notice: Listening for intracluster connections on port 29015
+2015-10-14T23:14:25.188844000 0.071135s notice: Listening for client driver connections on port 28015
+2015-10-14T23:14:25.206525000 0.088816s error: Could not bind to http port: The address at localhost:8080 is reserved or already in use.
+2015-10-14T23:17:57.352177000 0.373383s notice: Running rethinkdb 2.1.5-2 (CLANG 4.2 (clang-425.0.28))...
+2015-10-14T23:17:57.355853000 0.377057s notice: Running on Darwin 14.5.0 x86_64
+2015-10-14T23:17:57.355903000 0.377105s notice: Loading data from directory /Users/puruzio/_dev/meteor/others/kickstart-hugeapp/rethinkdb_data
+2015-10-14T23:17:57.391073000 0.412275s info: Automatically using cache size of 971 MB
+2015-10-14T23:17:57.392707000 0.413910s notice: Listening for intracluster connections on port 29015
+2015-10-14T23:17:57.396927000 0.418129s notice: Listening for client driver connections on port 28015
+2015-10-14T23:17:57.397111000 0.418313s notice: Listening for administrative HTTP connections on port 8080
+2015-10-14T23:17:57.397115000 0.418317s notice: Listening on addresses: 127.0.0.1, ::1
+2015-10-14T23:17:57.397116000 0.418318s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2015-10-14T23:17:57.397119000 0.418321s notice: Server ready, "Jasons_MBP_d2f" 95275c41-16db-48f9-8d30-990cffaffcea
+2015-10-14T23:52:51.982901000 2095.103206s info: Table 8ff9d350-e6e3-4daa-88b8-890dd4465670: Added replica on this server.
+2015-10-14T23:52:53.335931000 2096.456285s info: Table 8ff9d350-e6e3-4daa-88b8-890dd4465670: Starting a new Raft election for term 1.
+2015-10-14T23:52:53.360741000 2096.481095s info: Table 8ff9d350-e6e3-4daa-88b8-890dd4465670: This server is Raft leader for term 1. Latest log index is 0.
+2015-10-14T23:58:12.807343000 2415.942795s info: Table e9a273ab-ed31-472f-b0d3-83d09d122eb7: Added replica on this server.
+2015-10-14T23:58:13.964755000 2417.100256s info: Table e9a273ab-ed31-472f-b0d3-83d09d122eb7: Starting a new Raft election for term 1.
+2015-10-14T23:58:13.990322000 2417.125822s info: Table e9a273ab-ed31-472f-b0d3-83d09d122eb7: This server is Raft leader for term 1. Latest log index is 0.
+2015-10-15T00:39:15.587609000 4878.637808s notice: Removing file /Users/puruzio/_dev/meteor/others/kickstart-hugeapp/rethinkdb_data/8ff9d350-e6e3-4daa-88b8-890dd4465670
+2015-10-15T00:39:15.587619000 4878.637818s info: Table 8ff9d350-e6e3-4daa-88b8-890dd4465670: Deleted the table.
+2015-10-17T07:04:35.723735000 47470.784930s notice: Someone asked for the nonwhitelisted file "/debug".  If this should be accessible, add it to the static web assets.
+2015-10-17T07:05:02.549803000 47497.611730s notice: Someone asked for the nonwhitelisted file "/debug".  If this should be accessible, add it to the static web assets.
+2015-10-17T07:06:37.227043000 47592.291556s notice: Someone asked for the nonwhitelisted file "/debug".  If this should be accessible, add it to the static web assets.
+2015-10-17T07:06:43.073298000 47598.138007s notice: Someone asked for the nonwhitelisted file "/debug".  If this should be accessible, add it to the static web assets.
+2015-10-17T07:28:08.255561000 48688.494763s notice: Server got SIGINT from pid 758, uid 501; shutting down...
+2015-10-17T07:28:08.256144000 48688.495345s notice: Shutting down client connections...
+2015-10-17T07:28:08.256650000 48688.495851s notice: All client connections closed.
+2015-10-17T07:28:08.256662000 48688.495863s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2015-10-17T07:28:08.266512000 48688.505714s notice: Storage engine shut down.
